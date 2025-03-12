@@ -1,0 +1,14 @@
+C:\Users\pc\Codes\CIS_Week2\hw1\bin\Debug\net9.0\hw1.1.exe
+C:\Users\pc\Codes\CIS_Week2\hw1\bin\Debug\net9.0\hw1.1.deps.json
+C:\Users\pc\Codes\CIS_Week2\hw1\bin\Debug\net9.0\hw1.1.runtimeconfig.json
+C:\Users\pc\Codes\CIS_Week2\hw1\bin\Debug\net9.0\hw1.1.dll
+C:\Users\pc\Codes\CIS_Week2\hw1\bin\Debug\net9.0\hw1.1.pdb
+C:\Users\pc\Codes\CIS_Week2\hw1\obj\Debug\net9.0\hw1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Codes\CIS_Week2\hw1\obj\Debug\net9.0\hw1.1.AssemblyInfoInputs.cache
+C:\Users\pc\Codes\CIS_Week2\hw1\obj\Debug\net9.0\hw1.1.AssemblyInfo.cs
+C:\Users\pc\Codes\CIS_Week2\hw1\obj\Debug\net9.0\hw1.1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Codes\CIS_Week2\hw1\obj\Debug\net9.0\hw1.1.dll
+C:\Users\pc\Codes\CIS_Week2\hw1\obj\Debug\net9.0\refint\hw1.1.dll
+C:\Users\pc\Codes\CIS_Week2\hw1\obj\Debug\net9.0\hw1.1.pdb
+C:\Users\pc\Codes\CIS_Week2\hw1\obj\Debug\net9.0\hw1.1.genruntimeconfig.cache
+C:\Users\pc\Codes\CIS_Week2\hw1\obj\Debug\net9.0\ref\hw1.1.dll
